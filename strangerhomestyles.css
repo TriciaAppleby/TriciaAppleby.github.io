@@ -1,0 +1,63 @@
+*{
+  background-color: black;
+}
+
+header {
+  color: red;
+  text-align: center;
+  font-size: 36px;
+  background-color: black
+}
+
+nav{
+  color: red;
+}
+
+body{
+  background-color: black;
+}
+
+a {
+  color: red;
+}
+
+.hawkins {
+  display: block;
+  margin: 0 auto;
+}
+
+.sam{
+display: block;
+margin: 0 auto;
+margin-top: 50px;
+margin-bottom: 30px;
+height: 200px;
+}
+
+article{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+  color: red;
+  padding: 20px;
+}
+
+section{
+  color: red;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.monster {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+footer {
+  color:red;
+}
